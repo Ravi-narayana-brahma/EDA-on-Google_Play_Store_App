@@ -1,4 +1,4 @@
-# EDA-on-Google_Play_Store_App
+## EDA-on-Google_Play_Store_App
 
 🔍 **Key Insights:**
 - **App Ratings & Reviews:** Analyzed user ratings and feedback to identify what drives app popularity.
